@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sulaiman</h1>
-- 🔭 I’m currently working on [Hečhun](https://hechun.vercel.app)
+- 🔭 I’m currently working on [Hečhun](https://hechun.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJS, SQL, ML and C++**
 
