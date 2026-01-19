@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sulaiman</h1>
+<h1 align="center">Hi 👋, I'm Sulaiman Shabir, a student at the University of Kashmir</h1>
 - 🔭 I’m currently working on [Hečhun](https://hechun.tech)
 
 - 🌱 I’m currently learning **ReactJS, SQL, ML and C++**
@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/helpsulaiman](https://github.com/helpsulaiman)
 
-- ⚡ Fun fact **I love Driving**
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/5XbHjBks2qfY4hJcK0FtEq?si=fd54f8adc6034218)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
