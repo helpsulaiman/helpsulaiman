@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/helpsulaiman](https://github.com/helpsulaiman)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=helpsulaiman&theme=dark)](https://git.io/streak-stats)
+
 [![Sulaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=helpsulaiman)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
